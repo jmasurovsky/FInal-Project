@@ -1,4 +1,4 @@
-# FInalProject
+# Course Reflections & Final Map Project
 
 Throughout the data visualization course I have gained skills in a number of webtools and software programs. Before this course I only had skills in ArcGIS and Microsoft office and thought that GIS was the only effective mapping software there is out there. Without a doubt, this course has taught me that not only are there easier, more efficient data visualization tools out there, but understanding what data visulization tool is most effective to get one's message across clearly. The opportunity with CT OCA has provided me with skills that I had not learned before and would like to continue to learn in the future; especially with the statistical software R.  
 
